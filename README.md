@@ -7,7 +7,7 @@ A lightweight demo of DLProf using PyTorch MNIST example
 
 # 2. Activate the new environment:
     
-    conda activate cs224n
+    conda activate dlprof
     
 # 3. Follow the demo here:
     
