@@ -11,4 +11,4 @@ A lightweight demo of DLProf using PyTorch MNIST example
     
 # 3. Follow the demo here:
     
-    [DLProf Demo](https://jingchaozhang.github.io/DLProf-Demo/)
+    https://jingchaozhang.github.io/DLProf-Demo/
